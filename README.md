@@ -9,4 +9,11 @@ Brief information about both cities:
 In this project, we will study in detail the area classification using Foursquare data and machine learning segmentation and clustering. The aim of this project is to segment areas of Mumbai and Pune based on the most common places captured from Foursquare. 
 Using segmentation and clustering, we hope we can determine:  
 •	The similarity or dissimilarity of both cities  
-•	Classification of area located inside the city whether it is residential, tourism places, or others
+•	Classification of area located inside the city whether it is residential, tourism places, or others  
+### **Target Audience**  
+Through this project we are expecting following people to benefit out of the findings.  
+•	Tourist.  
+•	People migrating city for work.  
+•	Business person looking for new location to start office etc.  
+•	Restaurants to finalise menu based on the type or people, their likings based on feedbacks etc.  
+•	And many more.  
